@@ -4,11 +4,13 @@
   text-align: center;
   margin: 1rem;
   padding: 0.5rem;
+  margin-top: 10rem;
 
   .text-shadow {
     color: $secondaryColor;
     font-size: 3rem;
     text-transform: uppercase;
+    text-decoration: underline;
     letter-spacing: 0.2rem;
     animation: flicker 0.5s ease-in-out infinite alternate;
    transition: all 0.5s ease-in-out;
